@@ -1,1 +1,3 @@
 
+Images récupérées sur le site https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset?resource=download
+Pour en avoir beaucoup plus
